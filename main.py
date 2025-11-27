@@ -1,6 +1,8 @@
+from wigets.col import Col
+
+
 def main():
-    print("Hello from app!")
+    Col()
 
 
-if __name__ == "__main__":
-    main()
+main()

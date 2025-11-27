@@ -1,4 +1,4 @@
-FROM python:latest
+FROM python:3.11.14-trixie
 
 # install pre-commit
 COPY requirements.txt /requirements.txt
